@@ -11,7 +11,7 @@ Se uso node para manejar las rutas de navegación dentro del app
 ## Correr app
 - Clonar repositorio
 
-  `git clone `
+  `git clone https://github.com/jpalaciosc999/neighborsafetylink.git`
 
 - Se ingresa a la ruta del proyecto recien clonado
 
